@@ -42,3 +42,20 @@ nav a {
     color: #666;
     text-decoration: none;
 }
+
+/* About Section */
+
+.about-container {
+    margin-top: 180px;
+    margin-left: 40px;
+}
+
+.about-statement {
+    font-family: 'Fraunces', serif;
+    font-size: 3rem;
+    font-weight: 500;
+}
+
+.about-content {
+    max-width: 60%;
+}
