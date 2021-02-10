@@ -136,3 +136,42 @@ nav a {
     display: block;
 }
 
+/* Contact Section */
+
+.connect {
+    text-align: center;
+    background-color: rgb(66, 66, 66);
+    color:  rgb(255, 250, 244);
+    margin-top: 50px;
+}
+
+.connect h2 {
+    text-align: center;
+    padding-top: 80px;
+    margin-bottom: 80px;
+    font-family: 'Fraunces', serif;
+    font-weight: 400;
+}
+
+.social-cont {
+    margin-top: 50px;
+    padding-bottom: 50px;
+    margin-left: 30%;
+    margin-right: 30%;
+    font-size: 2em;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+/* Footer */
+
+footer {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.heart {
+    color: red;
+}
