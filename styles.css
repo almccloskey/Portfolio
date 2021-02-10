@@ -126,3 +126,13 @@ nav a {
     display: block;
 }
 
+.skill-cont {
+    font-size: 1.5em;
+    margin-top: 14px;
+    float: right;
+}
+
+.project-desc {
+    display: block;
+}
+
